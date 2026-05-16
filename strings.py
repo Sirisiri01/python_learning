@@ -1,0 +1,21 @@
+text="python is programming language"
+# word1="hello"
+# word2="word"
+# print(text[-1])
+# print(len(text))
+# print(text[-5])
+# print(text.count("a"))
+# print(text.find("ython"))
+# print(text.index("n"))
+# print(text.index("p",text.index("p")+1))
+# print(text[1:5])
+# print(text[1:15:2])
+# print(text.upper())
+# print(text.lower())
+# print(text.title())
+# print(text.capitalize())
+# print(text.swapcase())
+# print("this is first word",word1)
+# print(f"this is second word {word2}")
+# print(r"c:\new\test")
+print(text.startswith("python"))
